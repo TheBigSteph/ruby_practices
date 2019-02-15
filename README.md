@@ -1,2 +1,2 @@
-# ruby_practices
+# ruby practices
 make some practices in ruby to improve myself
